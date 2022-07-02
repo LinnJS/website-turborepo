@@ -8,10 +8,13 @@ node_modules
 # testing
 coverage
 
-# next.js
+# build outputs
 .next/
 out/
 build
+dist/
+storybook-static/
+.swc
 
 # misc
 .DS_Store
